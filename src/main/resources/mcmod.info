@@ -1,0 +1,16 @@
+[
+{
+  "modid": "realwordswitch",
+  "name": "Real World Switch Mod",
+  "description": "A block that toggles a real light when powered.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Chris Ying", "Andrew Benson"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
